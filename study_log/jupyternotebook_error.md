@@ -138,11 +138,11 @@ jupyter lab --debug
 
 
 
-같은 PC: http://127.0.0.1:8888/lab
+같은 PC: http://127.0.0.1:xxxx/lab
 
 
 
-다른 기기: http://<서버IP>:8888/lab
+다른 기기: http://<서버IP>:xxxx/lab
 
 
 
